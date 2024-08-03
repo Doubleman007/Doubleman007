@@ -1,51 +1,39 @@
-# Hi, I'm Okoye Emmanuel 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist with a strong foundation in data analysis, machine learning, and data visualization. Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+###
 
+<p align="left">My name is Okoye Emmanuel and I'm a data scientist.</p>
 
-## 🧠 About Me
+###
 
-- 🔍 **Data Scientist** specializing in data analysis and machine learning.
-- 💻 Proficient in Python, Pandas, SQL, and more.
-- 📊 Experienced with Power BI and Microsoft Excel for data visualization.
-- 📚 Constantly learning and exploring new technologies and methodologies in data science.
+<h2 align="left">I am a passionate data scientist who is always learning.</h2>
 
-## 💼 Skills
+###
 
-- **Programming Languages:** Python, SQL
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, TensorFlow
-- **Data Visualization:** Power BI, Microsoft Excel, Matplotlib, Seaborn
-- **Version Control:** Git
+<p align="left">📚 I'm currently learning <br>🎯 Goals: to harness the power of data to solve problems, drive business success, and support strategic initiatives.<br>🎲 Fun fact: I like to learn new thing</p>
 
-## 📈 Technologies & Tools
+###
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-- ![Power BI](https://img.shields.io/badge/Power%20BI-4B77A3?style=flat&logo=powerbi&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7C142?style=flat&logo=machinelearning&logoColor=white)
+<h2 align="left">Technologies & Tools</h2>
 
-## 🚀 Projects
+###
 
-Here are some of my recent projects:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-### 🤖 Machine Learning Projects
-- [**Project 1:** Predictive Model for Stock Prices](https://github.com/yourusername/project3)
-- [**Project 2:** Sentiment Analysis on Social Media Data](https://github.com/yourusername/project4)
-
-
-## 🌱 Learning & Growth
-
-I'm currently learning more about advanced machine learning techniques and exploring new data visualization tools. Stay tuned for updates!
-
-## 📫 Contact Me
-
-Feel free to reach out via:
-- **Email:** [oemmanuel561@gmail.com](mailto:oemmanuel561@gmail.com)
-- **LinkedIn:** [linkedin.com/in/emmanuel-okoye-6bb0a32bb](https://www.linkedin.com/in/emmanuel-okoye-6bb0a32bb)
-
----
-
-Thank you for visiting my profile! If you have any questions or just want to connect, don't hesitate to reach out. 😄
-
+###
